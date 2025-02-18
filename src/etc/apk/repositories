@@ -1,4 +1,2 @@
-https://alpine.mirror.servercontrol.com.au/latest-stable/main
-https://alpine.mirror.servercontrol.com.au/latest-stable/community
-#http://mirror.aarnet.edu.au/pub/alpine/latest-stable/main
-#http://mirror.aarnet.edu.au/pub/alpine/latest-stable/community
+http://mirror.aarnet.edu.au/pub/alpine/latest-stable/main
+http://mirror.aarnet.edu.au/pub/alpine/latest-stable/community
