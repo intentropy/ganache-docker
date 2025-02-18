@@ -1,6 +1,6 @@
 FROM    alpine:latest
 
-LABEL   maintainer="Shane Hutter <shane@intentropycs.com>"
+LABEL   maintainer="Shane Hutter <shane.hutter86@gmail.com>"
 
 # Copy in system files
 COPY    src/etc/apk/repositories        /etc/apk/repositories
